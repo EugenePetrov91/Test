@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 testing line
+=======
+>>>>>>> 6d793a667545081a60bc09b7e952f0e1d010c941
 untesting file
 commit test
 test
